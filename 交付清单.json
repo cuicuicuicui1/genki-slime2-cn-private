@@ -1,0 +1,33 @@
+{
+  "project": "Slime Morimori Dragon Quest 2 / 元气史莱姆2 NDS",
+  "repository_kind": "public localization/research toolkit",
+  "research_node": "clear-font-majority10",
+  "date": "2026-10-08",
+  "source_baseline_sha256": "53a90729e750bf7288b41d205072138c14941e8810af70f4dc71a5dca6b5ba7b",
+  "body_records_inserted": 3505,
+  "body_records_scanned": 3725,
+  "new_body_records_vs09": 1120,
+  "graphic_name_assets": 60,
+  "fixed_speaker_occurrences": 369,
+  "pause_graphics": 4,
+  "common_confirm_labels": 2,
+  "remaining_scan_records": 220,
+  "all_story_translated": false,
+  "full_game_localization_complete": false,
+  "full_playthrough": false,
+  "public_artifacts": {
+    "rom_included": false,
+    "original_rom_included": false,
+    "save_files_included": false,
+    "emulator_included": false,
+    "translation_data_included": true,
+    "research_scripts_included": true,
+    "font_licenses_included": true
+  },
+  "build_entrypoints": [
+    "tools/nds_project.py",
+    "tools/translation_lint.py",
+    "tools/patches/"
+  ],
+  "notes": "拥有合法基线 ROM 的研究者可依照 docs/ 和阶段脚本继续构建；不从仓库下载 ROM。"
+}

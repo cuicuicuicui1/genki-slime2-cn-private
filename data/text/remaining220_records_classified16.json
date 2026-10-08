@@ -1,0 +1,1113 @@
+{
+  "counts": {
+    "development_menu_candidate_NOT_all_consumers_certified": 158,
+    "blank_placeholder": 9,
+    "unknown_HP_questionmarks": 1,
+    "development_tutorial_candidate": 31,
+    "original_shadow_roster_entry": 3,
+    "network_candidate_not_prioritized": 17,
+    "dynamic_shop_template": 1
+  },
+  "records": [
+    {
+      "id": "07:0004",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>スラもり２<SPEAKER><BODY>　　ステージ\n　　勇車戦\n　　モードデバッグ\n　　つうしん\n　　サウンド\n　　イベント\n　　トータルフラグ\n　　はじめから\n<END>"
+    },
+    {
+      "id": "07:004B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ<SPEAKER><BODY>　　町\n　　ステ１\n　　ステ２\n　　ステ３\n　　ステ４\n　　ステ５\n　　ステ６\n　　ステ７\n<END>"
+    },
+    {
+      "id": "07:0081",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　町Ａ\n　　しろ庭Ａ\n　　マップＢ\n　　Ｂロード\n　　コワ町Ａ\n　　コワ城\n　　家\n　　教会\n<END>"
+    },
+    {
+      "id": "07:00BF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　まもの堂\n　　しざいや\n　　～の２Ｆ\n　　コワエツ\n　　なし\n　　なし\n　　なし\n　　なし\n<END>"
+    },
+    {
+      "id": "07:00F9",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　なし\n　　Ｂ左上\n　　Ｂ真ん中\n　　えんとつ\n　　本家１\n　　本家２\n　　本家３\n　　本家４\n<END>"
+    },
+    {
+      "id": "07:013F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　ハク入口\n　　ハク左\n　　ハク右\n　　ハク上\n　　井戸部屋\n　　なし\n　　なし\n　　ゼニ上\n<END>"
+    },
+    {
+      "id": "07:0182",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　ゼニトル\n　　Ｐゆか１\n　　Ｐゆか２\n　　Ｐゆか３\n　　ＳＵＣ１\n　　ＳＵＣ２\n　　なし\n　　なし\n<END>"
+    },
+    {
+      "id": "07:01BF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まちマップ<SPEAKER><BODY>　　なし\n　　フッコ城\n　　フッコ１\n　　フッコ２\n　　コワレ１\n　　コワレ２\n　　タンク上\n　　タンク下\n<END>"
+    },
+    {
+      "id": "07:0201",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>おしろマップ<SPEAKER><BODY>　　パペ７Ｚ\n　　えっけん\n　　ひめ部屋\n　　ＣＯＯＫ\n　　トビ入口\n　　トビ　心\n　　トビ　ぎ\n　　トビ　体\n<END>"
+    },
+    {
+      "id": "07:0249",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>パペットなどなど<SPEAKER><BODY>　　パペ１Ｓ\n　　ばしゃ中\n　　つうしん\n　　～その２\n　　セツメイ\n　　パペ森前\n　　パペＣＺ\n　　パペ１Ｅ\n<END>"
+    },
+    {
+      "id": "07:0290",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ１マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:02BE",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ１マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　Ｎ\n　　Ｏ\n　　Ｐ\n　　Ｑ\n　　Ｒ\n<END>"
+    },
+    {
+      "id": "07:02EC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ１マップ<SPEAKER><BODY>　　Ｓ\n　　Ｔ\n　　Ｕ\n　　Ｖ\n　　Ｗ\n　　Ｘ\n<END>"
+    },
+    {
+      "id": "07:030E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ２マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:033C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ２マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　Ｎ\n　　Ｏ\n　　Ｐ\n　　Ｑ\n　　Ｒ\n<END>"
+    },
+    {
+      "id": "07:036A",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ２マップ<SPEAKER><BODY>　　Ｓ\n　　Ｔ\n　　Ｕ\n　　Ｖ\n　　Ｗ\n　　Ｘ\n　　なし\n　　なし\n<END>"
+    },
+    {
+      "id": "07:0396",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ３マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:03C4",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ３マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　Ｎ\n　　Ｏ\n　　Ｐ\n　　なし\n　　Ｒ\n<END>"
+    },
+    {
+      "id": "07:03F3",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ３マップ<SPEAKER><BODY>　　Ｓ\n　　Ｔ\n　　Ｕ\n　　Ｖ\n　　Ｗ\n　　Ｘ\n　　Ｙ\n<END>"
+    },
+    {
+      "id": "07:0419",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ４マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:0447",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ４マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　なし\n　　なし\n　　なし\n　　なし\n　　なし\n<END>"
+    },
+    {
+      "id": "07:047A",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ５マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:04A8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ５マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　Ｎ\n　　Ｏ\n　　Ｐ\n　　なし\n　　なし\n<END>"
+    },
+    {
+      "id": "07:04D8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ６マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:0506",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ６マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　Ｍ\n　　Ｎ\n　　Ｏ\n　　Ｐ\n　　Ｑ\n　　Ｒ\n<END>"
+    },
+    {
+      "id": "07:0534",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ６マップ<SPEAKER><BODY>　　Ｓ\n　　Ｔ\n　　Ｕ\n　　Ｖ\n　　Ｗ\n　　Ｘ\n　　Ｌ２\n　　Ｔ２\n<END>"
+    },
+    {
+      "id": "07:0560",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ７マップ<SPEAKER><BODY>　　Ａ\n　　Ｂ\n　　Ｃ\n　　Ｄ\n　　Ｅ\n　　Ｆ\n　　Ｇ\n　　Ｈ\n　　Ｉ\n<END>"
+    },
+    {
+      "id": "07:058E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ７マップ<SPEAKER><BODY>　　Ｊ\n　　Ｋ\n　　Ｌ\n　　なし\n　　なし\n　　なし\n　　なし\n　　なし\n　　Ｒ\n<END>"
+    },
+    {
+      "id": "07:05C1",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ＳＴ７マップ<SPEAKER><BODY>　　Ｓ\n　　Ｔ\n　　Ｕ\n　　Ｖ\n　　Ｗ\n　　Ｘ\n　　Ｙ\n　　Ｚ\n<END>"
+    },
+    {
+      "id": "07:05EB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>１<SPEAKER><BODY>　　こころカスタム\n　　おえかき\n　　ステージセレクト\n　　けっか画面\n　　れん金画面\n　　勇車なかま\n　　ショップ（かう）\n　　ショップ（うる）\n　　ＨＰショップ\n　　せかいじゅ屋\n<END>"
+    },
+    {
+      "id": "07:0656",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>２<SPEAKER><BODY>　　冒険の書\n　　名前入カ\n　　オープニング\n　　ろくが\n　　さいせい\n　　スタッフロール\n　\n　\n　\n　\n<END>"
+    },
+    {
+      "id": "07:0697",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ゆうしゃせんセレクト<SPEAKER><BODY>　　２Ｄ　<F402>大岩<F400>　　　　　　　\n　　町　　<F402>もんじゃが<F400>\n　　２Ｎ　<F402>もんじゃが<F400>\n　　２Ｖ　<F402>リリパット<F400>\n　　２Ｔ　<F402>ニャンポト３<F400>\n　　２Ｕ　<F402>ゴレムズン<F400>\n　　　\n　　１Ｕ　<F402>リリパッカ<F400>\n<END>"
+    },
+    {
+      "id": "07:0718",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ゆうしゃせんセレクト<SPEAKER><BODY>　　１Ｔ　<F402>ニャンポト３<F400>\n　　１Ｒ　<F402>ジンメーン<F400>\n　　１Ｓ　<F402>ウサンダー<F400>\n　　３Ｃ　<F402>トップーン<F400>\n　　３Ｉ　<F402>エリスグル<F400>\n　　３Ｘ　<F402>ヨロイオー<F400>\n　　３Ｗ　<F402>ギャオックス<F400>\n　　３Ｉ　<F402>もんじゃが<F400>\n<END>"
+    },
+    {
+      "id": "07:07A0",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ゆうしゃせんセレクト<SPEAKER><BODY>　　４Ｄ　<F402>ウワンダー<F400>\n　　４Ｅ　<F402>ＭＵＭＭＹ<F400>\n　　４Ｆ　<F402>ウッディ<F400>\n　　４Ｈ　<F402>エリスグル<F400>\n　　４Ｈ　<F402>とくもり<F400>\n　　５Ｅ　<F402>デインはしら<F400>\n　　５Ｇ　<F402>マミーきづち<F400>\n　　５Ｉ　<F402>サボテンたい<F400>\n<END>"
+    },
+    {
+      "id": "07:0827",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ゆうしゃせんセレクト<SPEAKER><BODY>　　５Ｋ　<F402>モジャロス<F400>\n　　６Ｕ　<F402>ガメゴーレム<F400>\n　　６Ｖ　<F402>かがみのたて<F400>\n　　６Ｗ　<F402>びんぼうＡ<F400>\n　　６Ｘ　<F402>かねもちＢ<F400>\n　　６Ｔ　<F402>エリスグル<F400>\n　　６Ｔ　<F402>サボンサ<F400>\n　　７Ｕ　<F402>アトス<F400>\n<END>"
+    },
+    {
+      "id": "07:08AC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ゆうしゃせんセレクト<SPEAKER><BODY>　　７Ｖ　<F402>ボルトス<F400>\n　　７Ｗ　<F402>アラミス<F400>\n　　７Ｘ　<F402>スライバさいご<F400>\n　　７Ｘ　<F402>つむり<F400>\n　　７Ｚ　<F402>オンゾエーグ<F400>\n　　ＥＶ　<F402>ＨＰアップ<F400>\n　　Ｃ　<F402>アニキとブッカ<F400>\n　　Ｃ　<F402>なめくじキー<F400>\n<END>"
+    },
+    {
+      "id": "07:0932",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>タンクロード<SPEAKER><BODY>　　Ｃ　<F402>にゃんにゃん<F400>\n　　Ｂ　<F402>ぴょんぴょん<F400>\n　　Ｂ　<F402>サボテンボテ<F400>\n　　Ｂ　<F402>もじゃスラ<F400>\n　　Ａ　<F402>ハマー<F400>\n　　Ａ　<F402>ピクさん<F400>\n　　Ａ　<F402>セージン<F400>\n　　Ｓ　<F402>ブシドー<F400>\n<END>"
+    },
+    {
+      "id": "07:09AA",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>タンクロード<SPEAKER><BODY>　　Ｓ　<F402>けんた<F400>\n　　Ｓ　<F402>カワバタ<F400>\n　　Ｗ　<F402>ＶＳミイホン<F400>\n　　Ｅ　<F402>スライバ<F400>\n　　　　<F402>わ<F400>\n　　　　<F402>り<F400>\n　　　　<F402>か<F400>\n　　　　<F402>な<F400>\n<END>"
+    },
+    {
+      "id": "07:0A11",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>サウンドテスト<SPEAKER><BODY>　　ＳＥ\n　　ＳｔｍＳＥ\n　　ＢＧＭ\n<END>"
+    },
+    {
+      "id": "07:0A2F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>イベント<SPEAKER><BODY>　　町\n　　１\n　　２\n　　３\n　　４\n　　５\n　　６\n　　７\n<END>"
+    },
+    {
+      "id": "07:0A57",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まち・０<SPEAKER><BODY>　　さいしょから　　　　　　\n　　しっぱい\n　　せいこう\n　　しゅうげき\n　　てっしゅう\n　　３すらとん\n　　２ステへ\n<END>"
+    },
+    {
+      "id": "07:0A9B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まち・１<SPEAKER><BODY>　　ほうこく\n　　モモンジャガー\n　　３ステへ\n　　レンキン\n　　４ステへ\n　　５ステへ\n　　すっとびへ\n<END>"
+    },
+    {
+      "id": "07:0AD8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まち・２<SPEAKER><BODY>　　すっとびしれん\n　　だいしきょう\n　　まちふっこう\n　　７ステへ\n　　１００コンプ\n　　もどる\n　　もどる\n<END>"
+    },
+    {
+      "id": "07:0B18",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>まち・３<SPEAKER><BODY>　　ヒミツモード\n<END>"
+    },
+    {
+      "id": "07:0B29",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ１・０<SPEAKER><BODY>　　Ａ　ドラお　　　　　　　　\n　　Ｂ　スラごろう\n　　Ｃ　しすたー\n　　Ｄ　スラゾー\n　　Ｊ　じんめんじゅ\n　　Ｌ　王さま\n　　Ｄ　ロープ\n<END>"
+    },
+    {
+      "id": "07:0B7C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ１・１<SPEAKER><BODY>　　Ｆ　こうそくトロッコ\n　　Ｂ　魔物スイッチ\n　　Ｓ　スライバ２\n<END>"
+    },
+    {
+      "id": "07:0BAB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ２・０<SPEAKER><BODY>　　Ｂ　大砲\n　　Ｄ　シドもじゃ\n　　Ｄ　シドもじゃ救出　\n　　スラリンガル\n　　スラリンガル前\n　　Ｄ　にげるサボール\n　　Ｏ　サボクラッシュ\n<END>"
+    },
+    {
+      "id": "07:0C03",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ２・１<SPEAKER><BODY>　　Ｕ　スライバ１\n<END>"
+    },
+    {
+      "id": "07:0C18",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ３<SPEAKER><BODY>　　Ｆ　レンキン山のカギ\n　　Ｈ　魔物スイッチ\n　　Ｉ　スライバ３\n　　Ｎ　ニードル\n　　Ｏ　デンデンりゅう\n<END>"
+    },
+    {
+      "id": "07:0C5B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ４<SPEAKER><BODY>　　Ａ　とくもりせんたい\n　　Ｄ　アルミナー\n　　Ｅ　ゾンベェ\n　　Ｆ　モゲイラ\n　　Ｈ　スライバ\n<END>"
+    },
+    {
+      "id": "07:0C96",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ５<SPEAKER><BODY>　　Ｃ　パパママ\n　　Ｅ　ライカク\n　　Ｇ　キズチ\n　　Ｉ　サボール\n　　Ｋ　モジャロス\n　　Ｍ　じごくのもんばん\n<END>"
+    },
+    {
+      "id": "07:0CD9",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ６・０<SPEAKER><BODY>　　Ｃ　にげるピク　　　　\n　　Ｕ　モグルゾ\n　　Ｖ　ペルシア\n　　Ｗ　モモッタ\n　　Ｘ　モコモ\n　　Ｔ　スライバ\n　　Ｔ　サボンサ\n<END>"
+    },
+    {
+      "id": "07:0D27",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ６・１<SPEAKER><BODY>　　Ｄ　ローズバトラー\n<END>"
+    },
+    {
+      "id": "07:0D3E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ７・０<SPEAKER><BODY>　　Ｂ　とびらオープン　　\n　　Ｅ　ゴーレム\n　　Ｉ　キラーマシン\n　　Ｌ　キラーマシン２\n　　Ｕ　アトス\n　　Ｖ　ポルトス\n　　Ｗ　アラミス\n<END>"
+    },
+    {
+      "id": "07:0D91",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>ステージ７・１<SPEAKER><BODY>　　Ｘ　スライバ\n　　Ｚ　ドン・モジャ\n　　Ａ　おわり\n<END>"
+    },
+    {
+      "id": "08:0790",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>トラぶち<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "08:0A5F",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "08:15B4",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>ドルビア<SPEAKER><BODY><F101>「\n　<WAIT><END>"
+    },
+    {
+      "id": "08:1801",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>スラニック<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "12:010E",
+      "kind": "unknown_HP_questionmarks",
+      "source": "<BODY><F401>？？？？？？？？<F400><F400>\n<END>"
+    },
+    {
+      "id": "17:0004",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>パパ<SPEAKER><BODY><F100>「０番の町スラです。\n　名前はパパです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0024",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ママ<SPEAKER><BODY><F101>「１番の町スラです。\n　名前はママです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0044",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラみ<SPEAKER><BODY><F101>「２番の町スラです。\n　名前はスラみです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0066",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ミイホン<SPEAKER><BODY><F100>「３番の町スラです。\n　名前はミイホンです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:013A",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>おうさま<SPEAKER><BODY><F100>「５番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:015F",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>おうひ<SPEAKER><BODY><F101>「６番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0183",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ペココ<SPEAKER><BODY><F101>「７番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:026F",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>しんぷ<SPEAKER><BODY><F100>「９番の町スラです。\n　名前はしんぷです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0291",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>だいしきょう<SPEAKER><BODY><F100>「１０番の町スラです。\n　名前はだいしきょうです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:02BA",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラまる<SPEAKER><BODY><F100>「１１番の町スラです。\n　名前はすらまるです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:02DF",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラかげ<SPEAKER><BODY><F100>「１２番の町スラです。\n　名前はすらかげです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0304",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>トミー<SPEAKER><BODY><F100>「１３番の町スラです。\n　名前はトミーです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:0327",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>グラン<SPEAKER><BODY><F100>「１４番の町スラです。\n　名前はグランです<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:086C",
+      "kind": "original_shadow_roster_entry",
+      "source": "<SPEAKER>トラぶち<SPEAKER><BODY><F100>「いやいやいや　助かったで　ホンマ～！\n　おおきにやで　<F401><F00100><F400>～！<PAGE><WAIT>\n「ワイの　みせ　こわされてへんか\n　しんぱいやわ～　はよ　町にかえして～！<WAIT><END>"
+    },
+    {
+      "id": "17:0B74",
+      "kind": "original_shadow_roster_entry",
+      "source": "<SPEAKER>ポテト<SPEAKER><BODY><F100>「たすかったでちゅー。　そのトロッコにのって\n　おうちに　かえりたいでちゅー。<WAIT><END>"
+    },
+    {
+      "id": "17:0F9F",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ブッチーノ<SPEAKER><BODY><F100>「４６番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:12F7",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ハッピー<SPEAKER><BODY><F101>「５５番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:131D",
+      "kind": "original_shadow_roster_entry",
+      "source": "<SPEAKER>ほなみん<SPEAKER><BODY><F101>「<F401>しすたー<F400>ちゃんと\n　<F401>トラぶち<F400>くんが　ちかくに　いるの！<PAGE><WAIT>\n「わたしをふくめて　<F402>３匹<F400>　みんな\n　助けてほしいな…　おねがい！<WAIT><END>"
+    },
+    {
+      "id": "17:1375",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>メタリックス<SPEAKER><BODY><F100>「５７番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:13DB",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ラファイム<SPEAKER><BODY><F100>「５９番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:145F",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラッガイ<SPEAKER><BODY><F100>「６１番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:14EA",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>デスラー<SPEAKER><BODY><F100>「６３番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1510",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>シャイタン<SPEAKER><BODY><F100>「６４番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:15C4",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ドンぞう<SPEAKER><BODY><F100>「６７番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:15EA",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ブロッサム<SPEAKER><BODY><F100>「６８番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:166A",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>エレファントン<SPEAKER><BODY><F100>「７０番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:17A7",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>カイファン<SPEAKER><BODY><F100>「\n　<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:17B7",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ファンテッド<SPEAKER><BODY><F100>「７６番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:19BE",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>バブリシャス<SPEAKER><BODY><F100>「８２番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1A5E",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>バブリオン<SPEAKER><BODY><F100>「８５番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1D21",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>たまじろう<SPEAKER><BODY><F100>「９３番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1DC0",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラモリー<SPEAKER><BODY><F101>「９６番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1DE7",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>スラニック<SPEAKER><BODY><F100>「９７番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "17:1E40",
+      "kind": "development_tutorial_candidate",
+      "source": "<SPEAKER>ボグスラー<SPEAKER><BODY><F100>「９９番の町スラです。\n　名前は　みてい　です<PAGE><WAIT><END>"
+    },
+    {
+      "id": "19:0548",
+      "kind": "blank_placeholder",
+      "source": "<BODY>　\n<END>"
+    },
+    {
+      "id": "20:0004",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「他のみんなが　えらんでいるから\n　少し　まっててね。\n<END>"
+    },
+    {
+      "id": "20:002A",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「プレーする　にんずうを　かくにんしたら\n　<F402>スタートボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:005B",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「プレーする　にんずうを　かくにん中だよ。\n　少し　まっててね。\n<END>"
+    },
+    {
+      "id": "20:0086",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「プレーしたいパネルを　えらんでね！\n　<F401>（ＬＲボタンで　自分の色が　かわるよ！）<F400>\n<END>"
+    },
+    {
+      "id": "20:00C0",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F401>左チームの　リーダー<F400>に　なるパネルだよ！\n　これで　よかったら　<F402>Ａボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:00FE",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F402>右チームの　リーダー<F400>に　なるパネルだよ！\n　これで　よかったら　<F402>Ａボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:013C",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F401>左チームの　仲間<F400>に　なるパネルだよ！\n　これで　よかったら　<F402>Ａボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:017A",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F402>右チームの　仲間<F400>に　なるパネルだよ！\n　これで　よかったら　<F402>Ａボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:01B8",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「少しまっててね！\n　<F401>（もどりたい時は　Ｂボタンを　おしてね！）<F400>\n<END>"
+    },
+    {
+      "id": "20:01E9",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F402>十字ボタン上下<F400>　…　戦車　へんこう\n　<F402>十字ボタン左右<F400>　…　ＨＰ　へんこう　だよ。\n<END>"
+    },
+    {
+      "id": "20:022B",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「<F402>十字ボタン左右<F400>…ステージへんこう　だよ。\n　きまったら　<F402>Ａボタン<F400>を　おしてね！\n<END>"
+    },
+    {
+      "id": "20:0268",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<BODY><SPEAKER>スリーツ<SPEAKER>「さぁー！　じゅんび　は　ＯＫかい？\n　<F402>スタートボタン<F400>で　たいせん　かいし　だよ！！\n<END>"
+    },
+    {
+      "id": "47:0208",
+      "kind": "dynamic_shop_template",
+      "source": "<SPEAKER>トラぶち<SPEAKER><BODY><F100>「<F402>（しざいのなまえ９字）<F400>を\n　<F402>（Ｘ）<F400>コ　うってくれまっか？<F200><END>"
+    },
+    {
+      "id": "52:0004",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０００ページ<SPEAKER><BODY>　　フラグかいし\n　　イベントうごかすなら　１\n　　ＢＧＭストップ\n　　せかいじゅ　しずく\n　　せかいじゅ　はっぱ\n　　スーランエンブレム\n　　スライム\n　　スラリンガル\n　　ももんじゃ\n　　スーランエンブレムキャンバスＧＥＴ\n<END>"
+    },
+    {
+      "id": "52:0080",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００１ページ<SPEAKER><BODY>　　スライムキャンバスＧＥＴ\n　　スラリンガルキャンバスＧＥＴ\n　　ももんじゃキャンバスＧＥＴ\n　　レシピ１ＧＥＴ\n　　レシピ２ＧＥＴ\n　　レシピ３ＧＥＴ\n　　レシピ４ＧＥＴ\n　　レシピ５ＧＥＴ\n　　いのちのみ　１Ｐ\n　　いのちのみ　２Ｅ\n<END>"
+    },
+    {
+      "id": "52:0102",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００２ページ<SPEAKER><BODY>　　いのちのみ　３Ｓ\n　　いのちのみ　４Ｃ\n　　いのちのみ　５Ｄ\n　　いのちのみ　６Ｋ\n　　いのちのみ　７Ｇ\n　　いのちのみ　そと\n　　いのちのみ　きょうかい\n　　にわクリ　しゅうりょう\n　　にわクリ　せいこう\n　　にわクリ　ベースタイムこえた\n<END>"
+    },
+    {
+      "id": "52:0187",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００３ページ<SPEAKER><BODY>　　にわくり　ベストタイムこえた\n　　レンキンやまから　もどった\n　　２Ｎ　サボテンメッセージ　きいた\n　　２Ｕ　サボテンメッセージ　きいた\n　　オンゾエーグ　レシピＧＥＴ\n　　オンゾエーグ　２かいめ　いこうげきは\n　　町のドンモジャとせんとうちゅう\n　　タンク　Ｃ　１たいめにかった\n　　タンク　Ｃ　２たいめにかった\n　　タンク　Ｃ　３たいめにかった\n<END>"
+    },
+    {
+      "id": "52:0242",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００４ページ<SPEAKER><BODY>　　タンク　Ｂ　１たいめにかった\n　　タンク　Ｂ　２たいめにかった\n　　タンク　Ｂ　３たいめにかった\n　　タンク　Ａ　１たいめにかった\n　　タンク　Ａ　２たいめにかった\n　　タンク　Ａ　３たいめにかった\n　　タンク　Ｓ　１たいめにかった\n　　タンク　Ｓ　２たいめにかった\n　　タンク　Ｓ　３たいめにかった\n　　タンク　？？？にかった\n<END>"
+    },
+    {
+      "id": "52:02F3",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００５ページ<SPEAKER><BODY>　　タンク　Ｃランク　けいひんＧＥＴ\n　　タンク　Ｂランク　けいひんＧＥＴ\n　　タンク　Ａランク　けいひんＧＥＴ\n　　タンク　Ｓランク　けいひんＧＥＴ\n　　タンク　さいごの　けいひんＧＥＴ\n　　タンク　しょうりした\n　　タンク　１かい　かった\n　　タンク　いりぐち　あけしめ\n　　２Ｎ　もじゃろう\n　　２Ｖ　ピックス\n<END>"
+    },
+    {
+      "id": "52:039C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００６ページ<SPEAKER><BODY>　　２Ｔ　にゃんごろう\n　　２Ｕ　もんじゃ\n　　１Ｕ　ピクントン\n　　１Ｔ　マキー\n　　１Ｒ　キラスコ\n　　１Ｓ　もちゃるだ\n　　３Ｃ　ターズラ\n　　３Ｗ　ももやん\n　　３Ｘ　トラニャゴ\n　　３Ｉ　スライバ\n<END>"
+    },
+    {
+      "id": "52:040E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００７ページ<SPEAKER><BODY>　　３Ｉ　キドラ\n　　４Ｄ　アルミナー\n　　４Ｅ　キーマ\n　　４Ｆ　キラスコ\n　　４Ｈ　スライバ\n　　５Ｅ　ライカク\n　　５Ｇ　キズチ\n　　５Ｉ　サボール\n　　５Ｋ　モジャロス\n　　６Ｔ　サボンサ\n<END>"
+    },
+    {
+      "id": "52:047B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００８ページ<SPEAKER><BODY>　　６Ｕ　モグルゾ\n　　６Ｖ　ペルシア\n　　６Ｗ　モモッタ\n　　６Ｘ　モコモ\n　　７Ｕ　アトス\n　　７Ｖ　ポルトス\n　　７Ｗ　アラミス\n　　７Ｘ　スライバ\n　　７Ｘ　あとがま\n　　たいほう　せつめい　デモ　みた\n<END>"
+    },
+    {
+      "id": "52:04EF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>００９ページ<SPEAKER><BODY>　　デモ　しざいあつめにいけ\n　　デモ　あの大いわを　つぶせ\n　　デモ　モモンジャガーかいし\n　　デモ　モモンジャガー　ＨＰ０\n　　デモ　エンジンは　おく\n　　デモ　エンジン　ちかくにある\n　　デモ　エンジンルーム　はいった\n　　デモ　エンジンはかいメッセージ\n　　デモ　ゲート　あける？\n　　デモ　すべりだい　でてくるのをとめる\n<END>"
+    },
+    {
+      "id": "52:059F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１０ページ<SPEAKER><BODY>　　デモ　スライムたいほうとびこみ　きんし\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:0619",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１１ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:0687",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１２ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　１ＳＴ　フィールド　つかえる\n<END>"
+    },
+    {
+      "id": "52:06FC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１３ページ<SPEAKER><BODY>　　２ＳＴ　フィールド　つかえる\n　　３ＳＴ　フィールド　つかえる\n　　５ＳＴ　フィールド　つかえる\n　　５ＳＴ　ちょうじょう　つかえる\n　　６ＳＴ　フィールド　つかえる\n　　７ＳＴ　フィールド　つかえる\n　　７ＳＴ　ボス　つかえる\n　　タンクロード１　つかえる\n　　タンクロード２　つかえる\n　　タンクロード３　つかえる\n<END>"
+    },
+    {
+      "id": "52:07A8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１４ページ<SPEAKER><BODY>　　まちモンスター　でない\n　　まち　ふっこうした\n　　しろ　ふっこうした\n　　えっけんのま　なおった\n　　まもの堂　たてる\n　　レンキンばしゃ　たてる\n　　３スラトン　はいじょ　ミニマップ\n　　３スラトン　\n　　２０スラトン　\n　　４０スラトン　\n<END>"
+    },
+    {
+      "id": "52:0830",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１５ページ<SPEAKER><BODY>　　８０スラトン\n　　１００スラトン\n　　スーパースラストライクうてる\n　　えんとつ　おかね\n　　まちＢ　いど\n　　すっとび　から　そとへ　でる\n　　すっとび　シン　へいく\n　　すっとび　ギ　へいく\n　　すっとび　タイ　へいく\n　　すっとび　シン　からもどる\n<END>"
+    },
+    {
+      "id": "52:08BC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１６ページ<SPEAKER><BODY>　　すっとび　ギ　からもどる\n　　すっとび　タイ　からもどる\n　　はくぶつ　左へや\n　　はくぶつ　右へや\n　　Ｂいど　ゆうしゃのけん　てにいれた\n　　しんぷと　はなした\n　　しすたーと　はなした\n　　シドもじゃと　はなしている\n　　グランじいと　はなした\n　　スラごろうと　はなした\n<END>"
+    },
+    {
+      "id": "52:0956",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１７ページ<SPEAKER><BODY>　　１０ＳＴ　はいじょ　メッセージ\n　　１５ＳＴ　はいじょ　メッセージ\n　　２０ＳＴ　はいじょ　メッセージ\n　　５０ＳＴ　はいじょ　メッセージ\n　　５５ＳＴ　はいじょ　メッセージ\n　　６０ＳＴ　はいじょ　メッセージ\n　　７０ＳＴ　はいじょ　メッセージ\n　　１００ＳＴ　はいじょ　メッセージ\n　　ドラおと　はなした\n　　ドラおと　はなしちゅう\n<END>"
+    },
+    {
+      "id": "52:0A0B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１８ページ<SPEAKER><BODY>　　コーチと　はなしちゅう\n　　スケッチと　はなした\n　　スケッチと　はなしちゅう\n　　スラニックと　はなした\n　　スラニックと　はなしちゅう\n　　とらぶちと　はなした\n　　とらぶちと　はなしちゅう\n　　しんぷと　はなしちゅう\n　　せかいじゅや　から　もどる\n　　ドルビアと　はなした\n<END>"
+    },
+    {
+      "id": "52:0AA4",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０１９ページ<SPEAKER><BODY>　　スラモリーと　はなした\n　　レシピ１スラと　はなした\n　　レシピ２スラと　はなした\n　　レシピ３スラと　はなした\n　　まきりんと　はじめてはなした\n　　７ＳＴクリアご　パパにはなした\n　　ぱぱとまま　ゆうしゃへ\n　　まきりんと　はなしちゅう\n　　コゼニトールかダウンロード\n　　オープニング　みた\n<END>"
+    },
+    {
+      "id": "52:0B45",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２０ページ<SPEAKER><BODY>　　ミニゲームしっぱい\n　　ミニゲームせいこう\n　　にわクリ　せいぎょよう\n　　ふえ　のみこむ\n　　じしん　はっせい\n　　しっぽ団　しゅうげき\n　　ミミズと　まちがえた\n　　ベッドからおきる\n　　スラリンに　エール\n　　ステージ２　しょうかい　スタート\n<END>"
+    },
+    {
+      "id": "52:0BCF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２１ページ<SPEAKER><BODY>　　ステージ２　しょうかい　２ばんめ\n　　ステージ２　しょうかい　おわり\n　　シドもじゃ町へはいる\n　　しょせん　モンジャガ　じしんデモ\n　　しょせん　モンジャガ　たたかうデモ\n　　しょせん　モンジャガ　たおした\n　　ＨＰアップや　オープン１\n　　ＨＰアップや　オープン２\n　　まもの堂ほんかく　オープン\n　　ステージ３　しょうかい　スタート\n<END>"
+    },
+    {
+      "id": "52:0C86",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２２ページ<SPEAKER><BODY>　　ステージ３　しょうかい　２ばんめ\n　　ステージ３　しょうかい　おわり\n　　レンキンチュートリアル　まえ\n　　レンキンチュートリアル　ご\n　　ステージ４　しょうかい　スタート\n　　ステージ４　しょうかい　２ばんめ\n　　ステージ４　しょうかい　おわり\n　　すっとびとうじょう　デモ\n　　ステージ５　しょうかい　スタート\n　　ステージ５　しょうかい　２ばんめ\n<END>"
+    },
+    {
+      "id": "52:0D43",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２３ページ<SPEAKER><BODY>　　ステージ５　しょうかい　おわり\n　　ぱぱ　こし　いためる\n　　すっとび　かいしデモ\n　　すっとびしれん　シン　かいしデモ\n　　すっとびしれん　ギ　　かいしデモ\n　　すっとびしれん　タイ　かいしデモ\n　　すっとびしれん　シン　やめるデモ\n　　すっとびしれん　ギ　　やめるデモ\n　　すっとびしれん　タイ　やめるデモ\n　　すっとびしれん　シン　おわりデモ\n<END>"
+    },
+    {
+      "id": "52:0DFE",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２４ページ<SPEAKER><BODY>　　すっとびしれん　ギ　　おわりデモ\n　　すっとびしれん　タイ　おわりデモ\n　　スーパースラストライク　デモ\n　　だいしきょう　かえってきたデモ\n　　まちふっこう　させるデモ\n　　ステージ６　しょうかい　スタート\n　　ステージ６　しょうかい　おわり\n　　ステージ７　しょうかい　スタート\n　　ステージ７　しょうかい　おわり\n　　１００ぴきたすけてないメッセージみた\n<END>"
+    },
+    {
+      "id": "52:0EBF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２５ページ<SPEAKER><BODY>　　１００ぴきたすけたデみたモ\n　　スタッフロールみた\n　　Ｎｏ　ＵＳＥＤ\n　　Ｎｏ　ＵＳＥＤ\n　　Ｎｏ　ＵＳＥＤ\n　　Ｎｏ　ＵＳＥＤ\n　　１Ｃロープ\n　　１ボスたおした\n　　１Ｄロープ\n　　１Ｏロープ\n<END>"
+    },
+    {
+      "id": "52:0F2F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２６ページ<SPEAKER><BODY>　　１Ｐロープ\n　　１Ｑ左ロープ\n　　１Ｑ右ロープ\n　　１Ａ井戸ふた\n　　１Ｂ井戸ふた\n　　１Ｃ井戸ふた\n　　１Ｇもぐら　アナ\n　　１Ｉもぐら　アナ\n　　１Ｄかべはかい\n　　１Ｈ左かべはかい\n<END>"
+    },
+    {
+      "id": "52:0FA2",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２７ページ<SPEAKER><BODY>　　１Ｈ右かべはかい\n　　１Ｐかべはかい\n　　１Ａしかけとびら　あけた\n　　１Ｂしかけとびら　あけた\n　　１Ｆロープ　左\n　　１Ｆロープ　右\n　　１Ｐ下の　トロッコ町スラたすけた\n　　１Ｐ上の　トロッコ町スラたすけた\n　　１ステたびのとびら　ひらいた\n　　まものとびらピカピカスイッチ\n<END>"
+    },
+    {
+      "id": "52:1040",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２８ページ<SPEAKER><BODY>　　１Ａはじめて　しんにゅう\n　　ドラおＨＥＬＰイベント\n　　ドラお町スラばこ　ひらいた\n　　ドラお　じょうたい　かわった\n　　ドラお　キャッチした\n　　ドラお　なげてね　ほじょメッセージ\n　　ドラお　町へかえった\n　　ドラおから　メールＧＥＴ\n　　ももんじゃスラ箱おとすデモ\n　　スラごろう箱ひらいた\n<END>"
+    },
+    {
+      "id": "52:10E4",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０２９ページ<SPEAKER><BODY>　　スラごろうが町へかえった\n　　１Ｂトロッコかいつう\n　　ドラキとうさぎ　デモ　みた\n　　ももんじゃ　てったいデモ　みた\n　　シスターＨＥＬＰデモ　みた\n　　じかんパレット　ゆうこう\n　　１日けいかした\n　　マップＤ　はじめて　しんにゅう\n　　マップＤ　２回目　しんにゅう\n　　マップＤ　３回目　しんにゅう\n<END>"
+    },
+    {
+      "id": "52:118E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３０ページ<SPEAKER><BODY>　　おうさまきゅうしゅつデモ　みた\n　　だいせんしゃからにげるデモ　かいし\n　　１ボス　デモ　みた\n　　１ボス　１回でもたおした？\n　　１回おうさまレース　しぼう\n　　２回おうさまレース　しぼう\n　　１Ｆ　こうそく　トロッコデモ　みた\n　　１Ａ　アニキとブッカのデモ　みた\n　　２Ｂ　もじゃ砂ぞう　はかい\n　　２Ｃ　もじゃ砂ぞう　はかい\n<END>"
+    },
+    {
+      "id": "52:1246",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３１ページ<SPEAKER><BODY>　　２Ｄ　もじゃ砂ぞう　はかい　まん中\n　　２Ｄ　もじゃ砂ぞう　はかい　右\n　　２Ｅ　もじゃ砂ぞう　はかい　左\n　　２Ｅ　もじゃ砂ぞう　はかい　右\n　　２Ｆ　もじゃ砂ぞう　はかい\n　　２Ｈ　もじゃ砂ぞう　はかい\n　　２Ｊ　もじゃ砂ぞう　はかい　下\n　　２Ｊ　もじゃ砂ぞう　はかい　中\n　　２Ｊ　もじゃ砂ぞう　はかい　上\n　　２Ｌ　もじゃ砂ぞう　はかい\n<END>"
+    },
+    {
+      "id": "52:1311",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３２ページ<SPEAKER><BODY>　　２Ｐ　もじゃ砂ぞう　はかい\n　　２Ｄ　砂のしろ　けす\n　　２Ｒ　左上　とびら\n　　２Ｘ　スラリンガル　しゅつげんデモ\n　　２Ｊ　トロッコしゅつげん　ＯＫ\n　　２Ｎ　おわるまで　ミサイルださない\n　　２Ａ　井戸ふた\n　　２Ｌ　井戸ふた\n　　２Ｂ　井戸ふた\n　　２Ｄ　シドもじゃ　とうじょう\n<END>"
+    },
+    {
+      "id": "52:13B7",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３３ページ<SPEAKER><BODY>　　シドもじゃにストライク１\n　　シドもじゃにストライク２\n　　シドもじゃうめたまま　町へ\n　　２Ｄ　ミサイル　はっしゃじゅんびできた\n　　シドもじゃ　たすけた\n　　ユウシャとうじょうデモ\n　　ユウシャのりこむ前デモ\n　　２Ｄ　サボテン　とうそう\n　　２Ｊ　サボテン　とうそう\n　　２Ｌ　サボテン　とうそう\n<END>"
+    },
+    {
+      "id": "52:145C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３４ページ<SPEAKER><BODY>　　２Ｎ　だいせんしゃ　しょうり\n　　２Ｎ　サボテン　とうそう\n　　２Ｊ　２かいめ　サボテン　とうそう\n　　２Ｅ　サボテン　とうそう\n　　２Ｔ　だいせんしゃ　しょうり\n　　２Ｔ　サボテン　とうそう\n　　２Ｏ　サボクラッシュ　くらった\n　　２Ｏ　サボテン　とうそう\n　　２Ｓ　サボテン　とうそう\n　　２Ｕ　スライバデモ　みた\n<END>"
+    },
+    {
+      "id": "52:1508",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３５ページ<SPEAKER><BODY>　　２Ｕ　ミイホン　きゅうしゅつデモ\n　　２Ｕ　スライバデモ　しゅうりょう\n　　３Ｄ　かべはかい\n　　３Ｇ　かべはかい\n　　３Ｍ　かべはかい\n　　３Ａ　井戸ふた\n　　３Ｎ　井戸ふた\n　　３Ｂ　井戸ふた\n　　３Ｄ　ロープおろす\n　　３Ｇ　ロープおろす\n<END>"
+    },
+    {
+      "id": "52:1595",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３６ページ<SPEAKER><BODY>　　３Ｓ　ロープおろす\n　　３Ｂ　うらがえった町スラ箱　たすけた\n　　３Ｄ　うらがえった町スラ箱　たすけた\n　　３Ｎ　はり　ＯＰＥＮ\n　　３Ｓ　ブタちょきんばこ\n　　３Ｖ　ブタちょきんばこ\n　　３Ｈ　しかけとびら\n　　３ステ　ワープエフェクト\n　　３Ｆ　ドアの上のランプ　てんとう\n　　レンキンカ　だしてもいいよ\n<END>"
+    },
+    {
+      "id": "52:163F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３７ページ<SPEAKER><BODY>　　３Ｆとびら　ひらいている\n　　３Ｂ　キラキラかべ\n　　３Ｌ　キラキラかべ\n　　３ステ　スライムナイト　かついだ\n　　３ステ　キメラのつばさ　かついだ\n　　３ステ　ぼよよんロープ　せつめい\n　　３ステ　キラかべ　まだこわせないデモ\n　　３Ｆ　もじゃかいわデモ\n　　３Ｉ　スライバデモ　みた\n　　３Ｉ　スライバに　カギもらう\n<END>"
+    },
+    {
+      "id": "52:16EC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３８ページ<SPEAKER><BODY>　　３Ｉ　スライバにまけた\n　　３Ｉ　スライバに「イイエ」\n　　３ステ　ボス１回でもたおした\n　　３ステ　ワープしてもいいか\n　　３ステ　まものスイッチデモみた\n　　４Ｂ　モジャばり　左\n　　４Ｂ　モジャばり　右\n　　４Ｂ　モジャばり　まんなか\n　　４Ｄ　だいせんしゃ　つぶした\n　　４Ｅ　だいせんしゃ　つぶした\n<END>"
+    },
+    {
+      "id": "52:1796",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０３９ページ<SPEAKER><BODY>　　４Ｆ　だいせんしゃ　つぶした\n　　４Ｈ　だいせんしゃ　つぶした\n　　４Ｈ　スライバ　たおした\n　　４Ｄ　しょうり　デモみた\n　　４Ｅ　しょうり　デモみた\n　　４Ｆ　しょうり　デモみた\n　　４Ｈ　しょうり　デモみた\n　　４ステ　とくもり　とうじょうデモ\n　　４ステ　スラみ　きゅうしゅつ\n　　４ステクリアご　４Ｄ　しょうり\n<END>"
+    },
+    {
+      "id": "52:1843",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４０ページ<SPEAKER><BODY>　　４ステクリアご　４Ｅ　しょうり\n　　４ステクリアご　４Ｆ　しょうり\n　　４ステクリアご　４Ｈ　しょうり\n　　４Ｄ　せんとうできない\n　　４Ｅ　せんとうできない\n　　４Ｆ　せんとうできない\n　　４Ｈ　せんとうできない\n　　５Ａ　井戸ふた\n　　５Ｂ　井戸ふた\n　　５Ｂ　すごく　ながい　ロープ\n<END>"
+    },
+    {
+      "id": "52:18E4",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４１ページ<SPEAKER><BODY>　　５Ｎ　ボス　ご　のみち　つくる\n　　５Ｎ　ボス　たおしたか\n　　５ステ　ワープエフェクト\n　　５Ａ　キラかべ\n　　５Ｂ　キラかべ１\n　　５Ｂ　キラかべ２\n　　５Ｂ　キラかべ３\n　　５Ｂ　キラかべ４\n　　５Ｃ　キラかべ１\n　　５Ｃ　キラかべ２\n<END>"
+    },
+    {
+      "id": "52:1969",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４２ページ<SPEAKER><BODY>　　５Ｃ　キラかべ３\n　　５Ｃ　キラかべ４\n　　５Ｃ　キラかべ５\n　　５Ｃ　キラかべ６\n　　５Ｃ　キラかべ７\n　　５Ｃ　キラかべ８\n　　パパとママ　　きゅうしゅつ\n　　だいしきょう　きゅうしゅつ\n　　５ボス　１かいでも　まけた\n　　５ボス　１かいでも　たおした\n<END>"
+    },
+    {
+      "id": "52:19F6",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４３ページ<SPEAKER><BODY>　　５ボス　スクロールリミット　ＯＦＦ\n　　６Ｃ　井戸ふた　左\n　　６Ｃ　井戸ふた　右\n　　６Ｒ　かべはかい　左\n　　６Ｒ　かべはかい　右\n　　６Ｃ　しかけとびらＯＰＥＮ\n　　６Ｍ　しかけとびらＯＰＥＮ\n　　６Ｌ　ボスご　みちをあける１\n　　６Ｌ　ボスご　みちをあける２\n　　６ステ　ワープエフェクト\n<END>"
+    },
+    {
+      "id": "52:1A9F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４４ページ<SPEAKER><BODY>　　６Ｃ　ピクシーにげるデモ\n　　６Ｃ　さきへすすもうメッセージ\n　　６ステ　スライバたおしたデモ\n　　６ボス　１回でもたおした\n　　６ボス　かいしデモ　みた\n　　６ボス　せんとう　メッセージ１\n　　６ボス　せんとう　メッセージ２\n　　６ボス　せんとう　メッセージ３\n　　ドンモジャ　へんげする？\n　　７Ｂ　とびらＯＰＥＮ\n<END>"
+    },
+    {
+      "id": "52:1B4C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４５ページ<SPEAKER><BODY>　　７Ｉ　シャッター左\n　　７Ｉ　シャッター右\n　　７Ｂ　井戸ふた　下\n　　７Ｂ　井戸ふた　まん中\n　　７Ｂ　井戸ふた　上\n　　７Ｔ　シャッター\n　　７Ｕ　シャッター\n　　７Ｖ　シャッター\n　　７Ｗ　シャッター\n　　７Ｌ　ももんじゃアナ　ハリ\n<END>"
+    },
+    {
+      "id": "52:1BDB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４６ページ<SPEAKER><BODY>　　７Ｔ　とびらＯＰＥＮ\n　　７Ｃ　とびらＯＰＥＮ\n　　７Ｄ　とびらＯＰＥＮ\n　　７Ｇ　とびらＯＰＥＮ\n　　７Ｊ　とびらＯＰＥＮ\n　　７ステ　ワープエフェクト\n　　７Ｅ　ゴーレムとうじょうデモ\n　　７Ｅ　ゴーレムからももんじゃ\n　　７Ｅ　ゴーレムに　のった\n　　７Ｉ　キラーマ　とうじょう\n<END>"
+    },
+    {
+      "id": "52:1C76",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４７ページ<SPEAKER><BODY>　　７Ｉ　キラーマ　テンションＵＰ\n　　７Ｉ　キラーマ　たおした\n　　７Ｌ　キラーマ　たくさん\n　　７Ｂ　スラ箱　たすけてデモ\n　　７Ｂ　とぶトロッコ　デモ\n　　７Ｂ　ボグスラー　かえしたデモ\n　　７Ｕ　シャッターデモ　みてよい\n　　７Ｖ　シャッターデモ　みてよい\n　　７Ｗ　シャッターデモ　みてよい\n　　７Ｓ　スライバ　デモ\n<END>"
+    },
+    {
+      "id": "52:1D25",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４８ページ<SPEAKER><BODY>　　７Ｓ　カギＧＥＴ\n　　７Ｚ　ドンもじゃデモ\n　　７Ｚ　オンゾエーグ　たおした\n　　７Ｚ　オンゾエーグ　たおしたデモ　みた\n　　てっきゅう　ふきだし　フラグ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:1DB1",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０４９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:1E1F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５０ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:1E8D",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５１ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　スラリンガル　つかえる\n　　モモンジャガ　つかえる\n　　ウサンダ　つかえる\n　　ゴーレム　つかえる\n　　プリズニャン　つかえる\n　　リリパット　つかえる\n　　エリスグール　つかえる\n　　じんめんじゅ　つかえる\n<END>"
+    },
+    {
+      "id": "52:1F16",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５２ページ<SPEAKER><BODY>　　さまよろい　つかえる\n　　バトレックス　つかえる\n　　かまいたち　つかえる\n　　マミー　つかえる\n　　ダックスブル　つかえる\n　　スライムつむり　つかえる\n　　キラーアーマー　つかえる\n　　アークデーモン　つかえる\n　　ゴッドスラリンガル　つかえる\n　　サボテンボール　つかえる\n<END>"
+    },
+    {
+      "id": "52:1FAE",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５３ページ<SPEAKER><BODY>　　ミミック　つかえる\n　　ベリアル　つかえる\n　　おおなめくじ　つかえる\n　　オンゾエーグ　つかえる\n　　アックスドラゴン　つかえる\n　　ゴールデンスラ　つかえる\n　　パオーム　つかえる\n　　かぶここぞう　つかえる\n　　ギガオ　つかえる\n　　スラミ　つかえる\n<END>"
+    },
+    {
+      "id": "52:203B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５４ページ<SPEAKER><BODY>　　ミイホン　つかえる\n　　たいせんゴッドスラリンガル　つかえる\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:20B6",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５５ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2124",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５６ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2192",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５７ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2200",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５８ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:226E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０５９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:22DC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６０ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　はじめてレシピＧＥＴ\n<END>"
+    },
+    {
+      "id": "52:234D",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６１ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:23BB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６２ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　２ステ　しゅつげん\n　　３ステ　しゅつげん\n　　４ステ　しゅつげん\n　　５ステ　しゅつげん\n　　６ステ　しゅつげん\n<END>"
+    },
+    {
+      "id": "52:2433",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６３ページ<SPEAKER><BODY>　　７ステ　しゅつげん\n　　８ステ　しゅつげん\n　　１ステ　はじめてはいった\n　　２ステ　はじめてはいった\n　　３ステ　はじめてはいった\n　　４ステ　はじめてはいった\n　　５ステ　はじめてはいった\n　　６ステ　はじめてはいった\n　　７ステ　はじめてはいった\n　　８ステ　はじめてはいった\n<END>"
+    },
+    {
+      "id": "52:24CD",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６４ページ<SPEAKER><BODY>　　いこうはマップにはじめてはいったフラグ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2547",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６５ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:25B5",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６６ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2623",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６７ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2691",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６８ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:26FF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０６９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:276D",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７０ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:27DB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７１ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2849",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７２ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:28B7",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７３ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2925",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７４ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2993",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７５ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2A01",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７６ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2A6F",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７７ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2ADD",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７８ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2B4B",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０７９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2BB9",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８０ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2C27",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８１ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2C95",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８２ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2D03",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８３ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2D71",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８４ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2DDF",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８５ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2E4D",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８６ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2EBB",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８７ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2F29",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８８ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:2F97",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０８９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　１ＳＴ　Ａ２\n　　１ＳＴ　Ｂ１\n　　１ＳＴ　Ｃ１\n　　１ＳＴ　Ｃ２\n<END>"
+    },
+    {
+      "id": "52:3001",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９０ページ<SPEAKER><BODY>　　１ＳＴ　Ｐ１\n　　１ＳＴ　Ｑ１\n　　２ＳＴ　Ｅ１\n　　２ＳＴ　Ｉ１\n　　２ＳＴ　Ｐ１\n　　３ＳＴ　Ｍ１\n　　５ＳＴ　Ｂ　２かい\n　　５ＳＴ　Ｂ　３かい\n　　５ＳＴ　Ｂ　４かい\n　　５ＳＴ　Ｂ　５かい\n<END>"
+    },
+    {
+      "id": "52:3071",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９１ページ<SPEAKER><BODY>　　５ＳＴ　Ｂ　ちょうじょう\n　　５ＳＴ　Ｃ　２かい\n　　５ＳＴ　Ｃ　３かい\n　　５ＳＴ　Ｃ　４かい\n　　５ＳＴ　Ｃ　５かい\n　　６ＳＴ　Ｃ　左\n　　６ＳＴ　Ｃ　右\n　　６ＳＴ　Ｇ１\n　　６ＳＴ　Ｒ１\n　　６ＳＴ　Ｉ　右\n<END>"
+    },
+    {
+      "id": "52:30ED",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９２ページ<SPEAKER><BODY>　　６ＳＴ　Ｎ　左\n　　６ＳＴ　Ｎ　右\n　　６ＳＴ　Ｉ　左\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:315E",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９３ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:31CC",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９４ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　ミニ　１Ｒ　勇車かち\n　　ミニ　１Ｓ　勇車かち\n　　ミニ　１Ｔ　勇車かち\n　　ミニ　２Ｎ　勇車かち\n　　ミニ　２Ｔ　勇車かち\n　　ミニ　２Ｕ　勇車かち\n<END>"
+    },
+    {
+      "id": "52:324C",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９５ページ<SPEAKER><BODY>　　ミニ　２Ｖ　勇車かち\n　　ミニ　３Ｃ　勇車かち\n　　ミニ　３Ｉ　勇車かち\n　　ミニ　３Ｗ　勇車かち\n　　ミニ　３Ｘ　勇車かち\n　　ミニ　４Ｄ　勇車かち\n　　ミニ　４Ｅ　勇車かち\n　　ミニ　４Ｆ　勇車かち\n　　ミニ　４Ｈ　勇車かち\n　　ミニ　５Ｅ　勇車かち\n<END>"
+    },
+    {
+      "id": "52:32D8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９６ページ<SPEAKER><BODY>　　ミニ　５Ｇ　勇車かち\n　　ミニ　５Ｉ　勇車かち\n　　ミニ　５Ｋ　勇車かち\n　　ミニ　６Ｔ　勇車かち\n　　ミニ　６Ｕ　勇車かち\n　　ミニ　６Ｖ　勇車かち\n　　ミニ　６Ｗ　勇車かち\n　　ミニ　６Ｘ　勇車かち\n　　ミニ　７Ｕ　勇車かち\n　　ミニ　７Ｖ　勇車かち\n<END>"
+    },
+    {
+      "id": "52:3364",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９７ページ<SPEAKER><BODY>　　ミニ　７Ｗ　勇車かち\n　　ミニ　７Ｘ　勇車かち\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:33D8",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９８ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:3446",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>０９９ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:34B4",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>１００ページ<SPEAKER><BODY>　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　Ｎｏ　Ｕｓｅｄ\n　　勇ステージコンプ\n　　勇車ＨＰＭＡＸ\n　　しざい　５０コ\n　　しざい１００コ\n　　町スラコンプ\n　　まもの４９ひき\n<END>"
+    },
+    {
+      "id": "52:3522",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>１０１ページ<SPEAKER><BODY>　　まもの７４ひき\n　　まもの９９ひき\n　　まもの１００ひき\n　　レシピコンプ\n　　９９９９９Ｇ\n　　勇車コンプ\n　　勇なかまコンプ\n　　マスターズマスター\n　　はてな　１００パーセント\n　　Ｎｏ　Ｕｓｅｄ\n<END>"
+    },
+    {
+      "id": "52:3594",
+      "kind": "development_menu_candidate_NOT_all_consumers_certified",
+      "source": "<SPEAKER>１０２ページ<SPEAKER><BODY>　　きょてんアイコン\n　　お金もちデバッグ\n　　時間けいかデバッグ\n　　Ｎｏ　Ｕｓｅｄ\n　　　いこうは\n　　　えらんじゃダメ\n　　　えらんだら\n　　　ものすんごく\n　　　やばいことに\n　　　なるかもよん（・ー・）\n<END>"
+    },
+    {
+      "id": "54:0A11",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "54:0B9F",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>スケッチ<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "54:1526",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>ドルビア<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "54:1759",
+      "kind": "blank_placeholder",
+      "source": "<SPEAKER>スラニック<SPEAKER><BODY><F100>「\n　<WAIT><END>"
+    },
+    {
+      "id": "57:0004",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「ボクの　ツリーレーダーで\n　ともだちと　たいせんが　できるよ！<PAGE><WAIT>\n「<F402>通信たいせん<F400>を\n　するかい？<F21D><END>"
+    },
+    {
+      "id": "57:0048",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「オーケー！　まかせて<F401><F00100><F400>！\n　ツリーレーダー！　ワイヤレスオーーン！！！<WAIT><END>"
+    },
+    {
+      "id": "57:007D",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「<F402>通信たいせん<F400>　したくなったら\n　また　来てね！<WAIT><END>"
+    },
+    {
+      "id": "57:00A7",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「ボクの　ツリーレーダーが\n　こんがらがった　みたいだよ～。<PAGE><WAIT>\n「また　<F402>通信たいせん<F400>　したくなったら\n　ボクに　話しかけてね！<WAIT><END>"
+    },
+    {
+      "id": "57:00F9",
+      "kind": "network_candidate_not_prioritized",
+      "source": "<SPEAKER>スリーツ<SPEAKER><BODY><F100>「おかえり！　<F401><F00100><F400>！\n　<F402>通信たいせん<F400>は　たのしかったかい？<PAGE><WAIT>\n「また　<F402>通信たいせん<F400>　したくなったら\n　ボクに　話しかけてね！<WAIT><END>"
+    }
+  ]
+}

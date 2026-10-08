@@ -1,0 +1,5 @@
+﻿正文14px与13px：WenQuanYi Bitmap Song，对应TTF、原PCF、许可和作者通知完整保留。
+姓名10px及正文8px：Fusion Pixel对应BDF与完整OFL继承部件通知。
+12px回退：Fusion Pixel proportional zh_hans及其部件通知。
+字体转换参考脚本采用工程绝对路径，需要同工程依赖；不是一键补丁，也不含游戏原ROM。
+游戏原作内容、商标和第三方字体分别属于其权利人；不要把字体通知解释为整个游戏的许可。

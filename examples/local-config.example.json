@@ -1,0 +1,7 @@
+{
+  "original_rom": "D:/roms/Slime2_JP.nds",
+  "original_sha256": "53a90729e750bf7288b41d205072138c14941e8810af70f4dc71a5dca6b5ba7b",
+  "work_dir": "build/work",
+  "output_dir": "build/out",
+  "emulator": "C:/Emulators/DeSmuME/DeSmuME_0.9.13_x64.exe"
+}

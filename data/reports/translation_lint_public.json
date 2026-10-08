@@ -1,0 +1,11 @@
+{
+  "translation_file": "<LOCAL_PROJECT_ROOT>\\data\\text\\translations_appended10.json",
+  "source_file": "<LOCAL_PROJECT_ROOT>\\data\\text\\messages_jp.json",
+  "stats": {
+    "records": 3505,
+    "cjk_chars": 60749,
+    "japanese_kana": 11975
+  },
+  "errors": [],
+  "passed": true
+}

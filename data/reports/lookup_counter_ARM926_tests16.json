@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "scope": "actual ARM926 getter/counter with file loader/alloc/free MOCKED; not natural scenes",
+  "actual_lookup_records": 3505,
+  "actual_counter_records": 3505,
+  "source_resource_and_allocation_guards_exact": true,
+  "null_owner_original_source_fallbacks": [
+    4,
+    4720622
+  ],
+  "original_renderer_tested_in_separate_finalSHA_report": true,
+  "full_playthrough": false
+}

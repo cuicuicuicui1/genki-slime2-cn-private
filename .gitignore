@@ -1,0 +1,14 @@
+# local build/test state
+build/
+input/
+output/
+*.dsv
+*.dst
+*.sav
+*.srm
+*.nds
+*.3ds
+*.cia
+# generated reports
+*_local.json
+# keep source fonts/licenses and checked-in research previews

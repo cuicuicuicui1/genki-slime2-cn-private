@@ -1,0 +1,60 @@
+{
+  "repo": "https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF",
+  "revision": "7724da71817090ba92e76d9d40e3dd43afef25de",
+  "files": [
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\README.md",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/README.md",
+      "bytes": 5256,
+      "sha256": "ff9ce78550ca2255de50ecfc2fe6456e2022af8d6b33584d39e0e6183c04d1f5"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\LICENSE",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/LICENSE",
+      "bytes": 18092,
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\Original Fonts\\COPYING",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/Original%20Fonts/COPYING",
+      "bytes": 18007,
+      "sha256": "871c2a85e6bbf7bec65043820b706a265ed95d4e58c577fbb2c9f60c39c26ca7"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\WenQuanYi Bitmap Song 13px.ttf",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/WenQuanYi%20Bitmap%20Song%2013px.ttf",
+      "bytes": 6898152,
+      "sha256": "46ab2524897b1cc5ae0e05e132d08787c841bfc40f8bd2851070bebdb75d77f4"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\WenQuanYi Bitmap Song 14px.ttf",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/WenQuanYi%20Bitmap%20Song%2014px.ttf",
+      "bytes": 5639720,
+      "sha256": "1da8cb17abb4fd34d4cfc83be7e16baeb49f3822f9236499d29cd9ca7a4f68f6"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\Original Fonts\\AUTHORS",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/Original%20Fonts/AUTHORS",
+      "bytes": 32703,
+      "sha256": "19004996468f89a55f43a72d7ad9d3b82802819da38bc66c2bb8c5b1cd83e076"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\Original Fonts\\README",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/Original%20Fonts/README",
+      "bytes": 5618,
+      "sha256": "a342b6425f2645c00bb6a28334fd77de5357cd587a0ae57f6dc43b2f0a94416b"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\Original Fonts\\wenquanyi_10pt.pcf",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/Original%20Fonts/wenquanyi_10pt.pcf",
+      "bytes": 2287244,
+      "sha256": "83c2b0f830fa057dd66f9dc2f34766e9079c2c9ffa29469469ca8b717a158ddc"
+    },
+    {
+      "path": "<LOCAL_PROJECT_ROOT>\\reference\\fonts\\wqy-bitmap\\Original Fonts\\wenquanyi_13px.pcf",
+      "url": "https://raw.githubusercontent.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF/7724da71817090ba92e76d9d40e3dd43afef25de/Original%20Fonts/wenquanyi_13px.pcf",
+      "bytes": 1838184,
+      "sha256": "4fdd52dd970801b0989ce1c30a894455af25be8230fda06b49930233b4ce71df"
+    }
+  ]
+}

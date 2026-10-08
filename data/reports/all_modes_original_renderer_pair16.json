@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "baseline_design_candidate_SHA256": "305718866eb4853c560720680479ab59780856ce7aef3f28037507af7876050d",
+  "actual_original_callbacks_and_pixeldecoders": true,
+  "all_modes_per_glyph_and_carry_paired_cases": {
+    "0": 1847,
+    "1": 1952,
+    "2": 1952,
+    "3": 1952,
+    "fixed_name1": 25
+  },
+  "all_output_texture_pixels_context_and_DMA_exact": true,
+  "all_source_DMA_mainRAM_only": true,
+  "max_stack_written_depth": 1308,
+  "stack_writes_bounded1408": true,
+  "mode0_CPU_word_texture_copy": true,
+  "original_body14_and_mode13_and_private10_pixels_unchanged": true,
+  "native_tile_allocator_and_DMA_endpoints_MOCKED": true,
+  "controlled_contexts_NOT_natural_gameplay": true,
+  "full_playthrough": false,
+  "seconds": 12.25
+}

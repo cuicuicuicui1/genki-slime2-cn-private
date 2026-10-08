@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "actual_original_ending_handler": true,
+  "case": {
+    "id": "01:03BB",
+    "label": "actual ending actor-script handler, actor fixture",
+    "entry": "0x20b71ac",
+    "font_mode": 3,
+    "actual_getter_dynamic_allocation_exact": true
+  },
+  "source_record_9_bytes": "0c0900000103bb0100",
+  "actual_patched_getter_dynamic_allocation_exact": true,
+  "source_loader_alloc_free_MOCKED": true,
+  "controlled_actor_fixture_NOT_natural_ending": true,
+  "renderer_type5_measurement_branch_fixture": true,
+  "full_playthrough": false
+}

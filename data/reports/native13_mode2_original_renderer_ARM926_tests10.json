@@ -1,0 +1,191 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "actual_original_mode2_callback_cases": 2022,
+  "all_body_and_system_glyphs": 1847,
+  "all13column_ink_pixels_exact": true,
+  "all8_column_carry_states_representatives": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    25,
+    263,
+    313,
+    631,
+    822,
+    841,
+    864,
+    1057,
+    1739,
+    1740,
+    1847,
+    1848,
+    1849,
+    1850,
+    1851,
+    1852,
+    1853,
+    1854
+  ],
+  "callee_registers_stack_guard_all_pass": true,
+  "actual_source_max_stack_written_depth_bytes": 1308,
+  "all_source_stack_writes_within1344_bytes": true,
+  "stack_source1088plus_helper24_and_original_callback_nested_stack_measured": true,
+  "all_DMA_sources_original_mainRAM_scratch_never_DTCM": true,
+  "native_texture_allocator_and_DMA_endpoints_MOCKED": true,
+  "source_pixel_decoder_NOT_mocked": true,
+  "ordinary_mode3_and_private_names_tested_separately": true,
+  "controlled_NOT_natural_or_hardware": true,
+  "fullgame_stack_depth_NOT_certified": true,
+  "elapsed_seconds": 1.812,
+  "sample_confirm_cases": [
+    {
+      "index": 1739,
+      "offset": 0,
+      "ink_pixels": 61,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 0,
+      "ink_pixels": 51,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 1,
+      "ink_pixels": 61,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 2,
+      "ink_pixels": 61,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 3,
+      "ink_pixels": 61,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 4,
+      "ink_pixels": 61,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 5,
+      "ink_pixels": 61,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 6,
+      "ink_pixels": 61,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1739,
+      "offset": 7,
+      "ink_pixels": 61,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 1,
+      "ink_pixels": 51,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 2,
+      "ink_pixels": 51,
+      "columns": 2,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 3,
+      "ink_pixels": 51,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 4,
+      "ink_pixels": 51,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 5,
+      "ink_pixels": 51,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 6,
+      "ink_pixels": 51,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    },
+    {
+      "index": 1740,
+      "offset": 7,
+      "ink_pixels": 51,
+      "columns": 3,
+      "dma_sources_mainRAM_only": true,
+      "callee_registers_stack_guards_pass": true,
+      "observed_stack_written_depth_bytes": 1308
+    }
+  ],
+  "full_playthrough": false
+}

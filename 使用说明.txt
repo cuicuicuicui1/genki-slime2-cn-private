@@ -1,0 +1,25 @@
+元气史莱姆2 NDS 汉化工程公开仓库说明
+更新时间：2026-10-08
+
+这是给汉化者、逆向研究者和测试者使用的公开工程仓库，不是 ROM 下载页。
+
+仓库包含：
+- 原文记录、译文记录、术语表和剩余记录分类；
+- NitroFS/FAT 检查、资源包导出、译文控制码检查工具；
+- 正文、姓名栏、暂停图形和原生字库的阶段脚本；
+- 静态 UI 资源勘探、字库来源/许可证和无头验证报告。
+
+仓库不包含：
+- 日版 ROM、汉化 ROM、发行 ZIP；
+- 用户存档、即时存档或模拟器；
+- 未获许可的商业字体和游戏原始资源完整副本。
+
+使用自己的合法日版 ROM，并先验证：
+python tools/nds_project.py info --rom D:/roms/Slime2_JP.nds --expected-sha256 53a90729e750bf7288b41d205072138c14941e8810af70f4dc71a5dca6b5ba7b
+
+再安装依赖并运行：
+python -m pip install -r requirements.txt
+python tools/nds_project.py list --rom D:/roms/Slime2_JP.nds
+python tools/translation_lint.py data\text\translations_appended10.json --source data\text\messages_jp.json
+
+阶段脚本默认需要明确的前置件、输入 SHA 和输出目录；请阅读脚本头部和 docs/，不要直接在唯一 ROM 上覆盖写入。

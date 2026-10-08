@@ -1,0 +1,110 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "save_source357": "<LOCAL_PROJECT_ROOT>\\runs\\nds_insert10_resident16_native_cold_church_357\\runtime\\game.dsv",
+  "save_SHA256": "e39b171e964df12bf82e3871f746c53a9cf0fddc2df92851686afff338c49ef4",
+  "normal_save_bytes": 8314,
+  "own_finalSHA_normal_save_independent_cold_readback359": true,
+  "no_dst_used": true,
+  "old09_explicit_same_native_file_pair360": true,
+  "after_readback_native_save_bytes_unchanged": true,
+  "actual_same_church_saved_progress_readback_parent_visual": true,
+  "same_input_shot_pairs": [
+    {
+      "name": "normal_save_boot900",
+      "different_pixels": 0,
+      "bounds_yx": null
+    },
+    {
+      "name": "normal_save_title_menu",
+      "different_pixels": 0,
+      "bounds_yx": null
+    },
+    {
+      "name": "normal_save_menu_after_start",
+      "different_pixels": 15187,
+      "bounds_yx": [
+        [
+          8,
+          0
+        ],
+        [
+          191,
+          255
+        ]
+      ]
+    },
+    {
+      "name": "normal_save_continue_selected",
+      "different_pixels": 66,
+      "bounds_yx": [
+        [
+          230,
+          121
+        ],
+        [
+          307,
+          134
+        ]
+      ]
+    },
+    {
+      "name": "normal_save_continue_confirm",
+      "different_pixels": 66,
+      "bounds_yx": [
+        [
+          230,
+          120
+        ],
+        [
+          307,
+          135
+        ]
+      ]
+    },
+    {
+      "name": "church_exit_DOWN",
+      "different_pixels": 6,
+      "bounds_yx": [
+        [
+          299,
+          125
+        ],
+        [
+          299,
+          130
+        ]
+      ]
+    }
+  ],
+  "all_pairs_NOT_pixel_identical": true,
+  "animation_palette_actor_timing_NOT_sameframe_certified": true,
+  "actual357_source_text_observations": [
+    {
+      "id": "50:0100",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101>「まぁ　よく来ましたね。\n　げんきそうで　なによりですわ。<PAGE><WAIT><END>"
+    },
+    {
+      "id": "50:012A",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101><F004>「それでは…　えっへん！\n　<F402>冒険の書<F400>に　きろくするのですか？<F200><END>"
+    },
+    {
+      "id": "50:0186",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101><F004>「本当に　きろくをしても\n　よろしいのでしょうか？<F200><END>"
+    },
+    {
+      "id": "50:01AF",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101><F004>「…たしかに　きろくしましたわ。\n　まだ　冒険を　つづけますか？<F200><END>"
+    },
+    {
+      "id": "50:01DF",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101>「それでは　お気をつけくださいね。\n　神のごかごが　あらんことを…。<WAIT><END>"
+    },
+    {
+      "id": "50:020E",
+      "source": "<SPEAKER>しすたー<SPEAKER><BODY><F101><F004>「きろくするのを　やめるのですね？\n　では　まだ　冒険を　つづけますか？<F200><END>"
+    }
+  ],
+  "crossversion_all_contexts_compatibility": false,
+  "full_playthrough": false
+}

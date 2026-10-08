@@ -1,0 +1,5 @@
+ndspy>=4.2.0
+Pillow>=10.0
+fonttools>=4.50
+# 可选：无头 ARM/CPU 受控测试
+unicorn>=2.0.1

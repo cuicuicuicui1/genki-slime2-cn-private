@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "candidate_SHA256": "6aefad597d2b53f5898b99366ee56c7cc30153ed063d4c4fd1a9c79b7dc9f055",
+  "run": "<LOCAL_PROJECT_ROOT>\\runs\\nds_insert10_resident16_native_cold_church_357",
+  "actual_shots19": true,
+  "full112_yesno_ink_screens": [
+    "save09_intro_A_00",
+    "save09_intro_A_01",
+    "save09_intro_A_03",
+    "yesno09_sister_short_page_A",
+    "yesno09_save_prompt_ensure_A",
+    "yesno09_save_no_selected_DOWN",
+    "yesno09_save_no_confirm_A"
+  ],
+  "loaded_four_fonts_exact_nonoverlap": true,
+  "actual_original_mode2_callback_hits": 36,
+  "mode2_callbacks_untruncated": true,
+  "resource_loader_truncated": true,
+  "exit0": true,
+  "natural_inputs_only": true,
+  "cold_ordinary_save_no_dst": true,
+  "all_new_battle_tutorial_ending_scenes_NOT_certified": true,
+  "full_playthrough": false
+}
