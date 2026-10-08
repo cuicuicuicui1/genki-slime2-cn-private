@@ -17,7 +17,7 @@
 将自己合法取得的日版 ROM 放在本地，先运行：
 
 ```powershell
-python tools/nds_project.py info --rom "D:oms\Slime2_JP.nds" --expected-sha256 53a90729e750bf7288b41d205072138c14941e8810af70f4dc71a5dca6b5ba7b
+python tools/nds_project.py info --rom "D:/roms/Slime2_JP.nds" --expected-sha256 53a90729e750bf7288b41d205072138c14941e8810af70f4dc71a5dca6b5ba7b
 ```
 
 这个 SHA-256 只用于确认研究基线，不会从仓库下载 ROM。
@@ -33,18 +33,31 @@ Windows 用户建议使用 Python 3.11/3.12。需要无头 ARM 测试时再安�
 ### 3. 查看和导出 NitroFS 文件
 
 ```powershell
-python tools/nds_project.py list --rom "D:oms\Slime2_JP.nds"
-python tools/nds_project.py extract --rom "D:oms\Slime2_JP.nds" --file msgdata.bin --out build\original\msgdata.bin
-python tools/nds_project.py archive --rom "D:oms\Slime2_JP.nds" --file msgdata.bin --out build\msgdata-members
+python tools/nds_project.py list --rom "D:/roms/Slime2_JP.nds"
+python tools/nds_project.py extract --rom "D:/roms/Slime2_JP.nds" --file msgdata.bin --out build\original\msgdata.bin
+python tools/nds_project.py archive --rom "D:/roms/Slime2_JP.nds" --file msgdata.bin --out build\msgdata-members
 ```
 
 ### 4. 检查译文是否破坏控制码
 
 ```powershell
-python tools/translation_lint.py data/text/translations_appended10.json --source data/text/messages_jp.json
+python tools/translation_lint.py data/text/translations_appended10.json --source data/text/messages_jp.json --json-report build/translation-lint.json
 ```
 
 它会检查记录 ID、`<PAGE>`／`<WAIT>`／`<END>`／`<Fxxx>` 控制码、说话人栏结构和空译文；通过检查不等于已经完成游戏内实机验证。
+
+## 给后来汉化者的最短路径
+
+仓库公开的是“研究工程”，不是只可下载的补丁：
+
+1. 准备自己的合法日版 ROM，并用 `tools/nds_project.py info` 校验基线 SHA；
+2. 查看 `data/text/messages_jp.json`、`data/text/reviewed_text3550_including_holds06.json` 和 `data/text/glossary_review12.json`；
+3. 修改译文后先运行 `tools/translation_lint.py`，保留控制码、分页和说话人栏；
+4. 运行单个阶段构建脚本，输出到新目录，不覆盖输入 ROM；
+5. 用 `tools/rom_audit.py diff` 检查只改了声明的 NitroFS 文件；
+6. 用 `tools/run_headless.py` 和自己的输入计划冷启动复现，最后再做可视化模拟器或硬件对照。
+
+脚本、报告和静态资源定位结果都保留在仓库中；没有把 ROM、汉化 ROM、存档或模拟器打包进来。
 
 ## 工程结构
 
@@ -57,6 +70,8 @@ fonts/           字体源件与许可证
 research/        静态 UI 资源勘探、图块预览、验证截图
 tools/nds/       可复用的 NDS 编解码、字库、资源包模块
 tools/patches/   分阶段回插和字库实验脚本（不包含 ROM）
+tools/run_headless.py  DeSmuME 无头输入计划运行器
+tools/rom_audit.py      候选 ROM 只读差异与 allowlist 检查器
 docs/            逆向笔记、构建说明、贡献规则
 examples/        可复制的配置示例
 ```
@@ -75,6 +90,9 @@ examples/        可复制的配置示例
 更详细的边界见 [`docs/当前状态与验证边界.md`](docs/当前状态与验证边界.md)。
 
 ## 从哪里继续
+
+- 想先跑无头测试：看 [`docs/无头调试与安全回读.md`](docs/无头调试与安全回读.md) 和 [`examples/title_probe_plan.json`](examples/title_probe_plan.json)。
+- 想审查候选差异：运行 `tools/rom_audit.py diff`，不要只看文件大小。
 
 - 想翻译对白：先看 [`docs/文本工作流.md`](docs/文本工作流.md) 和 `data/text/reviewed_text3550_including_holds06.json`。
 - 想修字库：先看 [`docs/字库与字体残缺排查.md`](docs/字库与字体残缺排查.md)，不要直接扩大字库或改 ARM 常量。

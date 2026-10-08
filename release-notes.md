@@ -4,4 +4,5 @@
 - 移除 ROM、发行 ZIP、存档和模拟器，避免公开再分发游戏本体；
 - 新增文本、术语、剩余记录、NDS 检查/导出/译文 lint 工具；
 - 新增阶段性回插、字体、静态 UI 研究脚本和报告；
+- 新增 `rom_audit.py` 候选差异 allowlist 检查、DeSmuME 无头运行器、输入计划示例和 GitHub Actions 工程检查；
 - 保留 `clear-font-majority10` 的真实研究边界：3505/3725 文本记录、未宣称全剧情/全菜单/全通关。

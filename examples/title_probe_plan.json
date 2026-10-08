@@ -1,0 +1,9 @@
+[
+ {"op":"frames","n":1000},
+ {"op":"key","key":"START","hold":3,"gap":180},
+ {"op":"shot","name":"start1"},
+ {"op":"key","key":"A","hold":3,"gap":180},
+ {"op":"shot","name":"a1"},
+ {"op":"key","key":"START","hold":3,"gap":180},
+ {"op":"shot","name":"start2"}
+]

@@ -6373,8 +6373,8 @@
     }
   ],
   "reproduce": {
-    "export": "\"C:\\Users\\limul\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" export_ui_static.py",
-    "verify": "\"C:\\Users\\limul\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" verify_ui_static.py",
+    "export": "<PYTHON> export_ui_static.py",
+    "verify": "<PYTHON> verify_ui_static.py",
     "cwd": "<LOCAL_PROJECT_ROOT>\\work\\nds-full\\jobs\\ui_static_parent06"
   },
   "requested_string_probe": {

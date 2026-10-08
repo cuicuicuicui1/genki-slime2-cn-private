@@ -20,6 +20,8 @@ python tools/nds_project.py info --rom D:/roms/Slime2_JP.nds --expected-sha256 5
 再安装依赖并运行：
 python -m pip install -r requirements.txt
 python tools/nds_project.py list --rom D:/roms/Slime2_JP.nds
-python tools/translation_lint.py data\text\translations_appended10.json --source data\text\messages_jp.json
+python tools/translation_lint.py data/text/translations_appended10.json --source data/text/messages_jp.json
 
 阶段脚本默认需要明确的前置件、输入 SHA 和输出目录；请阅读脚本头部和 docs/，不要直接在唯一 ROM 上覆盖写入。
+
+无头调试：见 docs/无头调试与安全回读.md；候选安全差异检查：python tools/rom_audit.py diff --before <原版ROM> --after <候选ROM> --allow-file <文件名>。
